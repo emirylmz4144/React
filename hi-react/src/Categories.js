@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
-import { ListGroup, ListGroupItem, ListGroupItemHeading, ListGroupItemText } from 'reactstrap';
+import { ListGroup, ListGroupItem, ListGroupItemHeading, ListGroupItemText } from 'reactstrap';// ListGroup, ListGroupItem, ListGroupItemHeading, ListGroupItemText gibi yapılar reactstrap ile default gelir
 
 //react companent class
 export default class Categories extends Component {
+    //Ana uygulama (app.js) üzerine döndürülecek olan companent 
     render() {
         return (
             <div>

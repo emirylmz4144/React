@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Spinner } from 'reactstrap';
+import { Spinner } from 'reactstrap';//Spinner , Row, Col gibi yapılar reactstrap ile default gelir
 
 //react companent class
 export default class Nav extends Component {
